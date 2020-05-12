@@ -1,2 +1,4 @@
 # demo
 This is a test repo
+Ideally, we would also have the ability to horizontally align the content when we are using the background and border styling so that we can create a clean content block of same-sized columns on desktop (TBD how we would handle on mobile). For example, I tried to recreate the attached section of the original whitepaper (Whitepaper-Graphic) using columns with the grey text wrapper style. That ended up not looking very good because the columns weren't aligned horizontally. In the authored solution (linked above), I just used plain text, but it would be nice to have the ability to add a border or background coloring to a column and align the content horizontally at the bottom of the longest piece of content. 
+e'd like to explore the option of adding background styling and/or borders to a block of content. This would likely make the most sense to be configured at the column, so that we can add images/icons/text within the color container. 
